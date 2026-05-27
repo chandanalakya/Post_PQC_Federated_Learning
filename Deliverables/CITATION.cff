@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: Secure Federated Learning with Post-Quantum Cryptography
+authors:
+  - family-names: Chandana
+  - family-names: Pranav
+  - family-names: kavitha
+message: "If you use this project, please cite our research paper."
